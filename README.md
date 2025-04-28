@@ -1,4 +1,4 @@
-🚀 Excited to share a dashboard created by Tanvir, in Excel for a grocery delivery app, *Blinkit – BD’s Last Minute App*! 📈
+🚀 Excited to share a dashboard Tanvir created in Excel for a grocery delivery app! 📈
 
 This dashboard provides a complete overview of the app's performance, highlighting key insights like:
 - $1.20M Total Sales 🛒
